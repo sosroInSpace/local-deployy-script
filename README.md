@@ -2,3 +2,6 @@
 
 1. Make deploy.sh executable by runnning sudo chmod +x deploy.sh
 2. execute deploying via > ./deploy.sh <ssh linked name> <wp-content path folder> <sql table name>
+
+**TO DO**
+1. Create a .bash based pull script
